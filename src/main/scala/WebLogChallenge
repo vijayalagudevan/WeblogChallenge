@@ -1,5 +1,5 @@
 /*
- * This is a sample scala script to sessionize a web log. Update the source file to change the location. 
+ * This is a sample scala script to sessionize a web log. Update the getSourceFile method to change the location. 
  * 
  * Copy paste the below code to a spark REPL and execute the last command
  */
